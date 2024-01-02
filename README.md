@@ -38,20 +38,27 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 ### Interview Practice Questions
 
 1. What are three (3) syntax difference between HTML and JSX?
+    - JSX can be used as reuseble components, while HTML cannot.
+    - JSX can contain functions and expressions in the sytnax, while HTML cannot.
+    - JSX can utilize JavaScript conditonals and loops, while HTML cannot
+
 
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+    - Yarn is a package manager that builds the application. The package.json, yarn.lock, and the modules are added when you run yarn in the terminal. 
 
-3. What is the difference between state values and props in React?
+3. What is the difference between state values and props in React? 
+    - Props are used to pass values from a parent component to a child component. React state values are managed within the component. 
 
 4. STRETCH (optional): What is the difference between a div tag and a span tag?
+    - A <div> tag is an html tag that used to contain blocks of other html, while <span> is used for inline styling, or organizing. 
 
 ### Looking Ahead: Terms for Next Unit
 
-1. Object-oriented programming:
+1. Object-oriented programming: A software design model that utilizes data, and objects over functions and logic.
 
-2. Ruby:
+2. Ruby: A dynamic programming lanuage that has an emphasis on its simplicity. It is also open-source.
 
-3. Ruby Hashes:
+3. Ruby Hashes: A key:value pair that is similiar to an array, but the indexing is done by an arbitrary key of an object type, not an integer value. 
 
 ---
 
